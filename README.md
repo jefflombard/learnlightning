@@ -3,7 +3,7 @@ A Collection Of Courses, Tutorials, and Articles to Learn Salesforce Lightning D
 
 ## Useful Documentation
 
-- [Lightning Design System](https://www.lightningdesignsystem.com/)
+- [Lightning Design System](https://www.lightningdesignsystem.com/) - Documentation of CSS available for styling custom components.
 - [Lightning Component Library](https://developer.salesforce.com/docs/component-library/overview/components) - A library of pre-built lightning components
 
 ## Testing
