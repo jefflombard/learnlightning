@@ -33,6 +33,7 @@ A Collection Of Courses, Tutorials, and Articles to Learn Salesforce Lightning D
 - [Intro to Lightning](https://www.udemy.com/course/1418070/)
 - [Getting Started with the Salesforce® DX CLI (SFDX)](https://www.udemy.com/learn-sfdx/?couponCode=EIGENX)
 - [Medium: Eigen X](https://medium.com/eigen-x) - A Medium Publication centered around Salesforce Dev
+- [Advanced Lightning Components](https://www.salesforce.com/video/1779415/)
 
 ## Open Source Lightning Projects
 - [Lightning Redux](https://github.com/madmax983/lightning-redux)
